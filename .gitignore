@@ -1,0 +1,12 @@
+data/assets.h5
+data/fashion_mnist/data.npy
+data/fashion_mnist/label_dict.csv
+data/fashion_mnist/labels.npy
+data/mnist/data.npy
+data/mnist/labels.npy
+data/wiki_prices.csv
+data/AMEX.csv
+data/NASDAQ.csv
+data/NYSE.csv
+data/^spx_d.csv
+
